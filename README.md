@@ -30,3 +30,7 @@ The repository contains a structured incident analysis, supporting evidence, tec
 ## Disclaimer
 
 This investigation was conducted using publicly observable application behavior only. No access was available to source code, backend services, internal logs, monitoring systems, or deployment information.
+
+## Background
+
+The investigation was initiated after observing a failure in an online vehicle insurance renewal workflow on the Bajaj General Insurance renewal portal.
