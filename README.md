@@ -8,7 +8,7 @@ The objective was to analyze the issue using externally observable application b
 
 ## Repository Structure
 
-- `Incident Analysis.pdf` – High level incident report.
+- `Incident Analysis.pdf` –Incident report.
 - `findings/` – Summary of key findings.
 - `case-study/` – Detailed presentation containing evidence, analysis, hypotheses, and recommendations.
 - `screenshots/` – Supporting visual evidence collected during the investigation.
