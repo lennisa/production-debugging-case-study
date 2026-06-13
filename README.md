@@ -10,7 +10,7 @@ The objective was to analyze the issue using externally observable application b
 
 - `Incident Analysis.pdf` – High level incident report.
 - `findings/` – Summary of key findings.
-- `investigation/` – Detailed presentation containing evidence, analysis, hypotheses, and recommendations.
+- `case-study/` – Detailed presentation containing evidence, analysis, hypotheses, and recommendations.
 - `screenshots/` – Supporting visual evidence collected during the investigation.
 
 ## Investigation Scope
